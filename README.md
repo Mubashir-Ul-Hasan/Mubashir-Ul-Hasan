@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! 👋 I'm Hasan</h1>
 <h3 align="center">
   🧑‍💻 Software Engineering Student <br/>
-  🚀 Web Developer | 📈 SEO Marketer | 🤖 Competitive Programmer
+  🚀 Web Developer | 📈 SEO Marketer 
 </h3>
 
 <p align="center">
@@ -68,9 +68,9 @@
 
 ## 📚 Currently Learning
 
-- ⚛️ Advanced React Concepts & State Management  
-- ⚙️ Technical SEO (Core Web Vitals, Schema Markup)  
-- 🤖 DSA for Competitive Programming on Codeforces  
+-  Backend Development in depth 
+-  Technical SEO (Core Web Vitals, Schema Markup)  
+-  DSA for Competitive Programming on Codeforces  
 
 ---
 
